@@ -1,4 +1,4 @@
-# GridironGenius_ModelA_TitansD
+# GridironGenius
 
 This project is designed to predict the performance of NFL players for fantasy football using a Random Forest model. The model uses data from the 2024-2025 season to classify whether a player will be a "BOOM" (>= 20 fantasy points) or a "BUST" (< 20 fantasy points). The dataset used includes various statistics of players, which are processed and scaled before being fed into the model.
 
