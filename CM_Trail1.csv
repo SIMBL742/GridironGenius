@@ -1,0 +1,6 @@
+﻿Trail Type (knn,Accuracy%,Precision,Recall,Specificity,F1-score,TP,FP,FN,TN,Top 1 Feature,Top 2 Feature,Top 3 Feature,Top 4 Feature,Top 5 Feature,Top 6 Feature,Top 7 Feature,Top 8 Feature,Top 9 Feature,Top 10 Feature,
+46knn,0.7407,0.6667,0.4444,0.8889,0.5333,4,2,5,16,TD(7.38%),TD%(7.32%),Rate(7.26%),Yds(6.26%),NY/A(5.70%),ANY/A(5.52%),AY/A(4.57%),RYds(3.77%),1D(3.30%),Y/A(3.10%),
+45knn,0.7407,0.6667,0.4444,0.8889,0.5333,4,2,5,16,Rate(7.42%),TD(7.32%),TD%(7.28%),NY/A(5.78%),Yds(5.77%),ANY/A(5.37%),AY/A(4.48%),RYds(3.81%),1D(3.35%),Y/A(3.17%),
+44knn,0.7778,0.8000,0.4444,0.9444,0.5714,4,1,5,17,Rate(7.59%),TD%(7.44%),TD(6.83%),Yds(5.90%),NY/A(5.69%),ANY/A(5.49%),AY/A(4.20%),RYds(3.69%),1D(3.35%),Y/A(3.24%),
+43knn,0.7037,0.5714,0.4444,0.8333,0.5000,4,3,5,15,Rate(7.71%),TD%(7.12%),TD(6.99%),Yds(6.04%),NY/A(5.82%),ANY/A(5.54%),AY/A(5.54%),RYds(3.76%),1D(3.43%),Y/A(3.14%),
+42knn,,,,,,,,,,,,,,,,,,,,
